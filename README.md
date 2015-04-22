@@ -2,7 +2,7 @@
 =======================================================
 Repository for Course Project
 
-Created by Wendy Rivdeneira - (wrivaden) on 4/22/15
+Created by Wendy Rivadeneira - (wrivaden) on 4/22/15
 
 
 
